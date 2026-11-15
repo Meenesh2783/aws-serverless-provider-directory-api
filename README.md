@@ -2,7 +2,7 @@
 
 A serverless REST API on AWS for managing healthcare-provider records, built as a hands-on learning project. The company, the scenario, and all data are fictional and synthetic.
 
-![Architecture diagram](docs/provider-api-architecture.png)
+![Architecture diagram](docs/provider-api-architecture.drawio.png)
 
 ## Problem
 
