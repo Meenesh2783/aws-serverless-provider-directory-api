@@ -1,0 +1,5 @@
+{
+  "pathParameters": {"id": "p-2001"},
+  "body": "{\"city\": \"mumbai\"}",
+  "requestContext": {"authorizer": {"claims": {"sub": "test-user-123"}}}
+}

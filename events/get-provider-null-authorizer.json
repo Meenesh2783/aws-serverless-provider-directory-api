@@ -1,0 +1,4 @@
+{
+  "pathParameters": {"id": "p-1002"},
+  "requestContext": {"authorizer": null}
+}

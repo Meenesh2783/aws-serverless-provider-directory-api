@@ -1,0 +1,4 @@
+{
+  "queryStringParameters": {"city": "PUNE"},
+  "requestContext": {"authorizer": {"claims": {"sub": "test-user-123"}}}
+}

@@ -1,0 +1,4 @@
+{
+  "queryStringParameters": {"city": "pune", "specialty": "cardiology"},
+  "requestContext": {"authorizer": {"claims": {"sub": "test-user-123"}}}
+}

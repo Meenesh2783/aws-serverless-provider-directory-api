@@ -1,0 +1,4 @@
+{
+  "body": "not json",
+  "requestContext": {"authorizer": {"claims": {"sub": "test-user-123"}}}
+}

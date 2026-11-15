@@ -1,0 +1,4 @@
+{
+  "body": "{\"provider_id\": \"p-2001\", \"name\": \"Dr. Test One\", \"specialty\": \"Cardiology\", \"city\": \"Pune\", \"status\": \"active\"}",
+  "requestContext": {"authorizer": {"claims": {"sub": "test-user-123"}}}
+}

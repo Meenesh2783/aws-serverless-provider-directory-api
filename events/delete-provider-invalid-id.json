@@ -1,0 +1,4 @@
+{
+  "pathParameters": {"id": "bad id!"},
+  "requestContext": {"authorizer": {"claims": {"sub": "test-user-123"}}}
+}

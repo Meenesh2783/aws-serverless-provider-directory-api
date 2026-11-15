@@ -1,0 +1,4 @@
+{
+  "queryStringParameters": {"status": "inactive"},
+  "requestContext": {"authorizer": {"claims": {"sub": "test-user-123"}}}
+}
